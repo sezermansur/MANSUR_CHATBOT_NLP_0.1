@@ -55,6 +55,7 @@ Start a conversation and see the bot's responses:
 text
 
 You: Merhaba
+
 MANSUR: Merhaba! Size nasıl yardımcı olabilirim?
 
 Confirm the bot's response or provide a new response:
@@ -67,8 +68,9 @@ To update the response:
 
 text
 
-    Is my answer correct? (Y/N): N
-    Please enter the correct answer: How are you?
+Cevabım doğru mu? (E/H): H
+
+Lütfen doğru cevabı girin: Nasılsın?
 
 Functions
 save_responses()
