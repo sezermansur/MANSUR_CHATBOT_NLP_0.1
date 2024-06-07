@@ -24,6 +24,7 @@ To run this project, follow these steps:
     bash
 
 git clone https://github.com/sezermansur/MANSUR_CHATBOT_NLP_0.1.git
+
 cd MANSUR_CHATBOT_NLP_0.1
 
 Install the required Python packages:
