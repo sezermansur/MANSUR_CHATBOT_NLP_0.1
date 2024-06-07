@@ -7,7 +7,6 @@ Bu proje, kullanıcı girdilerine yanıt veren ve zamanla kendini geliştiren bi
     Kurulum
     Kullanım
     Fonksiyonlar
-    Katkıda Bulunma
 
 Özellikler
 
