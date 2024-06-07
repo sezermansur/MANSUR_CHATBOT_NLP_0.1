@@ -48,7 +48,7 @@ Sohbet botunu başlatmak için aşağıdaki komutları kullanın:
 
     bash
 
-python mansur.py
+python main.py
 
 Sohbet başlatın ve botun yanıtlarını görün:
 
