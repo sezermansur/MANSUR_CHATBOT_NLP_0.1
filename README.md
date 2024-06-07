@@ -8,7 +8,6 @@ Bu proje, kullanıcı girdilerine yanıt veren ve zamanla kendini geliştiren bi
     Kullanım
     Fonksiyonlar
     Katkıda Bulunma
-    Lisans
 
 Özellikler
 
