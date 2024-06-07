@@ -25,6 +25,7 @@ Bu projeyi çalıştırmak için aşağıdaki adımları izleyin:
     bash
 
 git clone https://github.com/sezermansur/MANSUR_CHATBOT_NLP_0.1.git
+
 cd MANSUR_CHATBOT_NLP_0.1
 
 Gerekli Python paketlerini yükleyin:
