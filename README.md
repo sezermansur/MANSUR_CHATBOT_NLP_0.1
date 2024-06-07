@@ -87,27 +87,3 @@ Verilen mesajın tüm öğrenilmiş yanıtlarla benzerliğini kontrol eder ve en
 update_response(question, old_response, new_response)
 
 Verilen soruya ait eski yanıtı yeni yanıtla günceller.
-Katkıda Bulunma
-
-Katkıda bulunmak isterseniz, lütfen bir çekme isteği (pull request) gönderin veya bir sorun (issue) açın. Her türlü katkı değerlidir.
-
-    Depoyu çatallayın (fork).
-    Yeni bir dal (branch) oluşturun:
-
-    bash
-
-git checkout -b yeni-ozellik
-
-Değişikliklerinizi yapın ve işle commit edin:
-
-bash
-
-git commit -m 'Yeni özellik eklendi'
-
-Dalınıza itme (push) yapın:
-
-bash
-
-git push origin yeni-ozellik
-
-Bir çekme isteği (pull request) açın.
