@@ -7,7 +7,7 @@ Bu proje, kullanıcı girdilerine yanıt veren ve zamanla kendini geliştiren bi
     Kurulum
     Kullanım
     Fonksiyonlar
-
+    
 Özellikler
 
     Kullanıcının mesajlarını ön işleme tabi tutar.
