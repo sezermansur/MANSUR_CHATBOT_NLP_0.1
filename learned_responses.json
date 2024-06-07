@@ -1,0 +1,1413 @@
+{
+    "merhaba": {
+        "words": [
+            "merhaba"
+        ],
+        "response": [
+            "Merhaba",
+            "Size Naısıl Yardımcı olabilirim ?",
+            "merhaba, size nasıl yardımcı olabilirim",
+            "merhaba, bugün size nasıl yardımcı olabilirim"
+        ]
+    },
+    "İyiyim, teşekkürler. Sen nasılsın?": {
+        "words": [
+            "iyiyim",
+            "teşekkürler",
+            "sen",
+            "nasılsın"
+        ],
+        "response": "Ben bir yapay zeka asistanıyım, her zaman buradayım! Size nasıl yardımcı olabilirim?"
+    },
+    "selam": {
+        "words": [
+            "selam"
+        ],
+        "response": [
+            "Merhaba Size Nasıl Yardımcı olabilirim ?",
+            "Merhaba Size Nasıl Yardımcı olabilirim ?"
+        ]
+    },
+    "teşekkürler bende iyiyim": {
+        "words": [
+            "teşekkürler",
+            "bende",
+            "iyiyim"
+        ],
+        "response": [
+            "buna çok sevindim.",
+            "bunu duyduğuma sevindim."
+        ]
+    },
+    "bugün nasılsın ?": {
+        "words": [
+            "bugün",
+            "nasılsın"
+        ],
+        "response": [
+            "bugün gayet iyiyim siz nasılsınız ?",
+            "iyiyim",
+            "iyi olmaya ve öğrenmeye çalışıyorum"
+        ]
+    },
+    "nerelisin": {
+        "words": [
+            "nerelisin"
+        ],
+        "response": [
+            "Hatay / Antakya",
+            "Hatay / Antakya"
+        ]
+    },
+    "adın ne ?": {
+        "words": [
+            "adın",
+            "adın nedir",
+            "ismin ne"
+        ],
+        "response": "Adım MANSUR 01.06.2024 yılında Sezer Mansur Tarafından geliştirildim ve Geliştirilmeye devam ediyorum."
+    },
+    "Ne yapıyorsun bugün?": {
+        "words": [
+            "ne",
+            "yapıyorsun",
+            "bugün"
+        ],
+        "response": "Bugün birkaç projede çalışıyorum ve yeni bilgiler öğreniyorum. Senin günün nasıl geçiyor?"
+    },
+    "Bugün hava nasıl?": {
+        "words": [
+            "bugün",
+            "hava",
+            "nasıl"
+        ],
+        "response": "Bugün hava oldukça güneşli ve sıcak. Dışarıda güzel bir gün geçirebilirsiniz!"
+    },
+    "Yemekte ne var?": {
+        "words": [
+            "yemekte",
+            "ne",
+            "var"
+        ],
+        "response": "Bugün yemekte tavuklu salata ve pilav var. İsterseniz daha detaylı bir menü verebilirim."
+    },
+    "Teşekkür ederim!": {
+        "words": [
+            "teşekkür",
+            "ederim"
+        ],
+        "response": "Rica ederim! Başka bir şey yapmamı isterseniz sormaktan çekinmeyin."
+    },
+    "Nasıl geçti günün?": {
+        "words": [
+            "nasıl",
+            "geçti",
+            "günün"
+        ],
+        "response": "Günüm oldukça verimli geçti, birkaç proje üzerinde çalıştım ve egzersiz yaptım. Senin günün nasıl geçti?"
+    },
+    "Evet, gayet iyi, teşekkürler.": {
+        "words": [
+            "evet",
+            "gayet",
+            "iyi",
+            "teşekkürler"
+        ],
+        "response": "Harika! Size nasıl yardımcı olabilirim?"
+    },
+    "Sana bir şaka anlatayım mı?": {
+        "words": [
+            "şaka",
+            "anlatayım"
+        ],
+        "response": "Tabii, bir şaka duymak isterim!"
+    },
+    "Evet, lütfen!": {
+        "words": [
+            "evet",
+            "lütfen"
+        ],
+        "response": "Harika! Şakanı sabırsızlıkla bekliyorum."
+    },
+    "Bugün çok sıcak, değil mi?": {
+        "words": [
+            "bugün",
+            "çok",
+            "sıcak"
+        ],
+        "response": "Evet, gerçekten de öyle! Yaz mevsimi geldiğinde sıcaklar artmaya başlar."
+    },
+    "Doğru söylüyorsun, bu sıcakta serin bir içecek içmek iyi olur.": {
+        "words": [
+            "doğru",
+            "söylüyorsun",
+            "sıcakta",
+            "içecek"
+        ],
+        "response": "Evet, tam olarak! Biraz serinlik için bir içecek almak iyi olur."
+    },
+    "Kapadokya'da hangi aktiviteler yapılır?": {
+        "words": [
+            "kapadokya",
+            "hangi",
+            "aktiviteler",
+            "yapılır"
+        ],
+        "response": "Kapadokya'da balon turları, yer altı şehirleri ziyaretleri, vadilerde yürüyüşler ve at turları gibi aktiviteler yapabilirsiniz."
+    },
+    "Pamukkale'ye nasıl gidilir?": {
+        "words": [
+            "pamukkale",
+            "nasıl",
+            "gidilir"
+        ],
+        "response": "Pamukkale'ye ulaşım için en yakın havaalanı Denizli Çardak Havalimanı'dır. Oradan otobüs veya araç kiralayarak Pamukkale'ye ulaşabilirsiniz."
+    },
+    "İzmir'de hangi tarihi yerler ziyaret edilir?": {
+        "words": [
+            "izmir",
+            "hangi",
+            "tarihi",
+            "yerler",
+            "ziyaret",
+            "edilir"
+        ],
+        "response": "İzmir'de Efes Antik Kenti, Smyrna Antik Kenti, Agora Açık Hava Müzesi ve Kadifekale gibi tarihi yerler ziyaret edilebilir."
+    },
+    "Efes Antik Kenti nerede?": {
+        "words": [
+            "efes",
+            "antik",
+            "kenti",
+            "nerede"
+        ],
+        "response": "Efes Antik Kenti, İzmir'in Selçuk ilçesinde yer almaktadır."
+    },
+    "Bodrum'da hangi plajlar tercih edilir?": {
+        "words": [
+            "bodrum",
+            "hangi",
+            "plajlar",
+            "tercih",
+            "edilir"
+        ],
+        "response": "Bodrum'da tercih edilen plajlar arasında Bitez Plajı, Gümüşlük Plajı, Türkbükü Plajı ve Yahşi Plajı bulunmaktadır."
+    },
+    "Fethiye'de neler yapılır?": {
+        "words": [
+            "fethiye",
+            "neler",
+            "yapılır"
+        ],
+        "response": "Fethiye'de Ölüdeniz'de yüzme, Likya Yolu'nda yürüyüş, Saklıkent Kanyonu'nda doğa yürüyüşü ve tekne turları gibi aktiviteler yapılabilir."
+    },
+    "Ankara'da hangi müzeler gezilir?": {
+        "words": [
+            "ankara",
+            "hangi",
+            "müzeler",
+            "gezilir"
+        ],
+        "response": "Ankara'da gezilecek müzeler arasında Anadolu Medeniyetleri Müzesi, Atatürk ve Kurtuluş Savaşı Müzesi, Etnografya Müzesi ve Rahmi M. Koç Müzesi bulunmaktadır."
+    },
+    "Trabzon'da ne yenir?": {
+        "words": [
+            "trabzon",
+            "ne",
+            "yenir"
+        ],
+        "response": "Trabzon'da kuymak, Akçaabat köftesi, hamsili pilav ve mısır ekmeği gibi lezzetler tadılabilir."
+    },
+    "antalya": {
+        "words": [
+            "antalya"
+        ],
+        "response": [
+            "Antalya Türkiyenin güneyinde bulunan turizm şehridir.",
+            "Antalya Türkiyenin güneyinde bulunan turizm şehridir."
+        ]
+    },
+    "Antalya'da hangi otellerde kalınır?": {
+        "words": [
+            "antalya",
+            "hangi",
+            "otellerde",
+            "kalınır"
+        ],
+        "response": "Antalya'da kalınabilecek popüler oteller arasında Rixos Downtown Antalya, Akra Hotel, The Marmara Antalya ve IC Hotels Green Palace bulunmaktadır."
+    },
+    "Rixos Downtown Antalya hakkında bilgi ver": {
+        "words": [
+            "rixos",
+            "downtown",
+            "antalya",
+            "hakkında",
+            "bilgi",
+            "ver"
+        ],
+        "response": "Rixos Downtown Antalya, şehir merkezinde yer alan lüks bir oteldir. Deniz manzaralı odaları, geniş bahçeleri ve modern olanakları ile misafirlerine konforlu bir konaklama sunar."
+    },
+    "Akra Hotel Antalya hakkında bilgi ver": {
+        "words": [
+            "akra",
+            "hotel",
+            "antalya",
+            "hakkında",
+            "bilgi",
+            "ver"
+        ],
+        "response": "Akra Hotel, Antalya şehir merkezinde yer alan beş yıldızlı bir oteldir. Denize sıfır konumu, geniş yüzme havuzları, spa ve wellness merkezi ile tatilciler için mükemmel bir seçimdir."
+    },
+    "The Marmara Antalya hakkında bilgi ver": {
+        "words": [
+            "the",
+            "marmara",
+            "antalya",
+            "hakkında",
+            "bilgi",
+            "ver"
+        ],
+        "response": "The Marmara Antalya, falezler üzerinde konumlanmış modern bir oteldir. Döner restoranı, eşsiz manzarası ve çeşitli olanakları ile dikkat çeker."
+    },
+    "IC Hotels Green Palace hakkında bilgi ver": {
+        "words": [
+            "ic",
+            "hotels",
+            "green",
+            "palace",
+            "hakkında",
+            "bilgi",
+            "ver"
+        ],
+        "response": "IC Hotels Green Palace, Kundu bölgesinde yer alan her şey dahil konseptli bir oteldir. Geniş bahçeleri, su kaydıraklı havuzları ve aile dostu olanakları ile bilinir."
+    },
+    "Antalya'da aileler için uygun oteller hangileridir?": {
+        "words": [
+            "antalya",
+            "aileler",
+            "için",
+            "uygun",
+            "oteller",
+            "hangileridir"
+        ],
+        "response": "Antalya'da aileler için uygun oteller arasında IC Hotels Green Palace, Limak Lara Deluxe Hotel & Resort ve Delphin Imperial Lara bulunmaktadır. Bu oteller, geniş aile odaları, çocuk kulüpleri ve aile dostu aktiviteler sunmaktadır."
+    },
+    "Antalya'da lüks oteller hangileridir?": {
+        "words": [
+            "antalya",
+            "lüks",
+            "oteller",
+            "hangileridir"
+        ],
+        "response": "Antalya'da lüks oteller arasında Maxx Royal Kemer Resort, Regnum Carya Golf & Resort ve Rixos Premium Belek bulunmaktadır. Bu oteller, üst düzey hizmetler, özel plajlar ve gurme restoranlar sunmaktadır."
+    },
+    "Antalya'nın turistik yerleri nelerdir?": {
+        "words": [
+            "antalya",
+            "turistik",
+            "yerleri",
+            "nelerdir"
+        ],
+        "response": "Antalya'nın turistik yerleri arasında Kaleiçi, Düden Şelalesi, Konyaaltı Plajı, Antalya Müzesi ve Termessos Antik Kenti bulunmaktadır. Bunlar, Antalya'nın kültürel ve doğal güzelliklerini keşfetmek için popüler yerlerdir."
+    },
+    "Antalya'da denize girmek için en iyi plajlar hangileridir?": {
+        "words": [
+            "antalya",
+            "denize",
+            "girmek",
+            "plajlar",
+            "hangileridir"
+        ],
+        "response": "Antalya'da denize girmek için en iyi plajlar arasında Lara Plajı, Konyaaltı Plajı, Kaputaş Plajı ve Patara Plajı bulunmaktadır. Bu plajlar, temiz su, güzel manzara ve çeşitli aktiviteler sunar."
+    },
+    "Antalya'da gezilecek müzeler hangileridir?": {
+        "words": [
+            "antalya",
+            "gezilecek",
+            "müzeler",
+            "hangileridir"
+        ],
+        "response": "Antalya'da gezilecek müzeler arasında Antalya Müzesi, Antalya Deniz Müzesi ve Sandland Antalya bulunmaktadır. Bu müzeler, tarihi ve kültürel mirası keşfetmek için harika yerlerdir."
+    },
+    "Antalya'nın ünlü festivalleri nelerdir?": {
+        "words": [
+            "antalya",
+            "ünlü",
+            "festivalleri",
+            "nelerdir"
+        ],
+        "response": "Antalya'nın ünlü festivalleri arasında Antalya Altın Portakal Film Festivali, Antalya Uluslararası Film Festivali ve Antalya Kültür Sanat Festivali bulunmaktadır. Bu festivaller, sanat, kültür ve sinema tutkunları için önemli etkinliklerdir."
+    },
+    "Bodrum'un tarihi ve kültürel mirası nedir?": {
+        "words": [
+            "bodrum",
+            "tarihi",
+            "kültürel",
+            "mırası",
+            "nedir"
+        ],
+        "response": "Bodrum, antik çağlardan günümüze uzanan zengin bir tarihe ve kültürel mirasa sahiptir. Bodrum Kalesi, antik çağın önemli eserlerinden biridir ve Bodrum'un simgesi haline gelmiştir. Ayrıca Bodrum'da Antik Tiyatro, Myndos Kapısı, Mausolos Mozolesi ve Bodrum Sualtı Arkeoloji Müzesi gibi tarihi ve kültürel yerler bulunmaktadır."
+    },
+    "Bodrum'un en güzel plajları hangileridir?": {
+        "words": [
+            "bodrum",
+            "güzel",
+            "plajları",
+            "hangileridir"
+        ],
+        "response": "Bodrum'un en güzel plajları arasında Kaputaş Plajı, Camel Beach, Bitez Plajı, Ortakent Yahşi Plajı ve Gümbet Plajı bulunmaktadır. Bu plajlar, berrak deniz suyu, ince kum ve doğal güzellikleriyle ünlüdür."
+    },
+    "Bodrum'da gezilecek doğal güzellikler nelerdir?": {
+        "words": [
+            "bodrum",
+            "gezilecek",
+            "doğal",
+            "güzellikler",
+            "nelerdir"
+        ],
+        "response": "Bodrum'da gezilecek doğal güzellikler arasında Bodrum Yarımadası'nın muhteşem manzarası, Bodrum Kalesi'nden şehrin panoramik görünümü, Gümbet Koyu ve Torba Koyu'nun huzurlu atmosferi bulunmaktadır. Ayrıca Bodrum'da yürüyüş rotaları ve doğa yürüyüşleri için harika alanlar mevcuttur."
+    },
+    "Bodrum'da ne zaman gitmeli ve tatil yapmalı?": {
+        "words": [
+            "bodrum",
+            "gitmeli",
+            "tatil",
+            "yapmalı",
+            "ne",
+            "zaman"
+        ],
+        "response": "Bodrum, genellikle yaz aylarında en popüler ziyaret zamanıdır. Haziran-Eylül ayları arası, sıcak hava ve güneşli günlerle dolu olan dönemdir. Ancak, Bodrum'a gitmek için en uygun zaman kişisel tercihlere ve aktivitelere bağlıdır. Bazıları sakin bir tatil için ilkbaharı tercih ederken, diğerleri hareketli yaz sezonunu tercih edebilir."
+    },
+    "Bodrum'un ünlü gece hayatı mekanları nelerdir?": {
+        "words": [
+            "bodrum",
+            "ünlü",
+            "gece",
+            "hayatı",
+            "mekanları",
+            "nelerdir"
+        ],
+        "response": "Bodrum'un ünlü gece hayatı mekanları arasında Halikarnas Disco, Catamaran, Club Posh ve Marina Yacht Club gibi gece kulüpleri bulunmaktadır. Ayrıca Bodrum Barlar Sokağı da gece eğlencesi için popüler bir destinasyondur."
+    },
+    "antalyada konaklama": {
+        "words": [
+            "antalyada",
+            "konaklama"
+        ],
+        "response": "antalyada konaklama yapılacak yerler; lara, belek, manavgat, alanya, kemer"
+    },
+    "nasılsın": {
+        "words": [
+            "nasılsın"
+        ],
+        "response": [
+            "Ben bir yapay zeka asistanıyım, her zaman buradayım! Size nasıl yardımcı olabilirim?",
+            "iyiyim",
+            "bugün gayet iyiyim siz nasılsınız ?",
+            "iyi olmaya ve öğrenmeye çalışıyorum"
+        ]
+    },
+    "neler yapıyorsun": {
+        "words": [
+            "neler",
+            "yapıyorsun"
+        ],
+        "response": [
+            "Bugün birkaç projede çalışıyorum ve yeni bilgiler öğreniyorum. Senin günün nasıl geçiyor?",
+            "Bugün birkaç projede çalışıyorum ve yeni bilgiler öğreniyorum. Senin günün nasıl geçiyor?"
+        ]
+    },
+    "antalya nerede": {
+        "words": [
+            "antalya",
+            "nerede"
+        ],
+        "response": "Antalya Türkiyenin güneyinde bulunan turizm şehridir."
+    },
+    "ankara nerede": {
+        "words": [
+            "ankara",
+            "nerede"
+        ],
+        "response": "Ankara Türkiyenin merkezinde ve Türkiye Cumhuriyetinin Başkentidir."
+    },
+    "Teşekkürler iyiyim sen nasılsın ?": {
+        "words": [
+            "Teşekkürler",
+            "iyiyim",
+            "sen",
+            "nasılsın",
+            "?"
+        ],
+        "response": "Ben bir yapay zeka asistanıyım, her zaman buradayım! Size nasıl yardımcı olabilirim?"
+    },
+    "antalyada otel arıyorum": {
+        "words": [
+            "antalyada",
+            "otel",
+            "arıyorum"
+        ],
+        "response": "Antalyada hangi kategoride otel arıyorsunuz ?"
+    },
+    "Antalya'da 5 Yıldızlı Oteller Listesi": {
+        "words": [
+            "antalya",
+            "5",
+            "yıldızlı",
+            "oteller",
+            "listesi"
+        ],
+        "response": "Antalya'da bulunan bazı 5 yıldızlı oteller: Rixos Premium Belek, Titanic Deluxe Belek, Maxx Royal Belek Golf Resort, Delphin Imperial Lara, Mardan Palace gibi."
+    },
+    "antalyada bulunan 5 yıldızlı oteller": {
+        "words": [
+            "antalyada",
+            "bulunan",
+            "5",
+            "yıldızlı",
+            "oteller"
+        ],
+        "response": "Antalya'da bulunan bazı 5 yıldızlı oteller: Rixos Premium Belek, Titanic Deluxe Belek, Maxx Royal Belek Golf Resort, Delphin Imperial Lara, Mardan Palace gibi."
+    },
+    "bodrum": {
+        "words": [
+            "bodrum"
+        ],
+        "response": [
+            "Bodrum'un en güzel plajları arasında Kaputaş Plajı, Camel Beach, Bitez Plajı, Ortakent Yahşi Plajı ve Gümbet Plajı bulunmaktadır. Bu plajlar, berrak deniz suyu, ince kum ve doğal güzellikleriyle ünlüdür.",
+            "Bodrum'un en güzel plajları arasında Kaputaş Plajı, Camel Beach, Bitez Plajı, Ortakent Yahşi Plajı ve Gümbet Plajı bulunmaktadır. Bu plajlar, berrak deniz suyu, ince kum ve doğal güzellikleriyle ünlüdür."
+        ]
+    },
+    "bodrum otelleri": {
+        "words": [
+            "bodrum",
+            "otelleri"
+        ],
+        "response": "Bodrumda otel bilgisine sahip değilim"
+    },
+    "bodrum da oteller": {
+        "words": [
+            "bodrum",
+            "da",
+            "oteller"
+        ],
+        "response": "Şuanda bodrumda otel bilgisine sahip değilim"
+    },
+    "Bodrumda bulunan oteller": {
+        "words": [
+            "Bodrumda",
+            "bulunan",
+            "oteller"
+        ],
+        "response": "Bodrumda otel bilgisine sahip değilim"
+    },
+    "trabzon": {
+        "words": [
+            "trabzon"
+        ],
+        "response": "Trabzon'da kuymak, Akçaabat köftesi, hamsili pilav ve mısır ekmeği gibi lezzetler tadılabilir."
+    },
+    "Bodrum'da Hangi Oteller Var?": {
+        "words": [
+            "bodrum",
+            "oteller",
+            "hangi",
+            "var"
+        ],
+        "response": "Bodrum'da birçok harika otel bulunmaktadır. Bazıları şunlardır: The Bodrum Edition, Mandarin Oriental Bodrum, Caresse, a Luxury Collection Resort & Spa, Swissotel Resort Bodrum Beach, Six Senses Kaplankaya."
+    },
+    "Bodrum'da Lüks Oteller": {
+        "words": [
+            "bodrum",
+            "lüks",
+            "oteller"
+        ],
+        "response": "Bodrum'da lüks konaklama deneyimi sunan oteller arasında The Bodrum Edition, Mandarin Oriental Bodrum ve Caresse, a Luxury Collection Resort & Spa öne çıkar."
+    },
+    "Bodrum'da Aile Dostu Oteller": {
+        "words": [
+            "bodrum",
+            "aile",
+            "dostu",
+            "oteller"
+        ],
+        "response": "Bodrum'da aileler için ideal oteller arasında Swissotel Resort Bodrum Beach ve Six Senses Kaplankaya bulunmaktadır."
+    },
+    "Bodrum'da Denize Sıfır Oteller": {
+        "words": [
+            "bodrum",
+            "denize",
+            "sıfır",
+            "oteller"
+        ],
+        "response": "Bodrum'da denize sıfır konumda olan oteller arasında Caresse, a Luxury Collection Resort & Spa ve Swissotel Resort Bodrum Beach bulunmaktadır."
+    },
+    "bodrumda hangi oteller var": {
+        "words": [
+            "bodrumda",
+            "hangi",
+            "oteller",
+            "var"
+        ],
+        "response": "Bodrum'da birçok harika otel bulunmaktadır. Bazıları şunlardır: The Bodrum Edition, Mandarin Oriental Bodrum, Caresse, a Luxury Collection Resort & Spa, Swissotel Resort Bodrum Beach, Six Senses Kaplankaya."
+    },
+    "bodrumda gezilecek yerler": {
+        "words": [
+            "bodrumda",
+            "gezilecek",
+            "yerler"
+        ],
+        "response": [
+            "Bodrum Kalesi\nBodrum’da görülmesi gereken yerlerin başında Bodrum Kalesi yer alıyor. Yabancılar tarafından St. Peter Kalesi olarak da adlandırılan kale Bodrum’da ilk uğranması gereken yerlerden biri. 1400’lü yıllarda St. Jean şövalyeleri tarafından yapılan kale bugün Bodrum Sualtı Müzesi olarak hizmet veriyor. Dünyanın en eski batık gemisinin yer aldığı müzeyi gezerken bu kalıntıyı görebilir, olağanüstü sualtı hazinelerini yakından inceleyebilirsiniz. Bunun yanında kaledeki zindan ve işkence odalarını da gezmenizi tavsiye ediyoruz. Tüm kaleyi 2-3 saat gibi bir sürede gezebilmeniz mümkün. Kaleye giriş 20 TL fakat müze kartınız varsa ücretsiz girebilirsiniz.\nBodrum Su Altı Arkeoloji Müzesi\nBodrum’un simgesi haline gelen kalenin içinde bulunan Su Altı Arkeoloji Müzesi’nin kuruluş tarihi 1964 yılına kadar uzanıyor. Üç tarafı denizlerle çevrilmiş yarımada şeklinde bulunan Bodrum Kalesi her yıl çok fazla turist ziyaretine ev sahipliği yapıyor. Dolayısıyla kalenin önemli bir yerine sahip bu müze, genellikle su altı kalıntılarının sergilendiği bir yer olmuş durumda. 1986 yılında ise Paşabahçe Şişe ve Cam fabrikalarının katkılarıyla, kronolojik olarak düzenlenmiş, cam koleksiyonu ile ilgili bilgi veren cam salonu açılmış. Ayrı ayrı 14 sergileme kısmı bulunan ve bu bölümlerde genelde su altı eserlerine yer verilen müze aynı zamanda Bodrum’un en çok ziyaretçi çeken yerlerinden biri olma özelliği taşıyor. Bunun yanı sıra müze, dünyadaki en zengin Doğu Akdeniz amforalarına da sahip olmasıyla öne çıkıyor. Yine müzede sergilenen batık gemi kalıntıları, dünyada en eski bulunan eserler olup, geminin 1025 yılında batmış Uluburun Batığı olduğu biliniyor. Tunç Devri’ne ait bu gemi Likya ticaret gemisi olma özelliğinde… Geminin ahşapları zaman içinde çürümüş olduğundan, aslına sadık kalınarak yapılmış maketi de bu müzede sergileniyor. Tabii tek batık gemi bu değil sergilenen; Marmaris Serçe Limanı batığı ve Tektaş Batığı, Finike Gelidonya Burnu batığı, Bodrum Yassı ada batığı, Roma Tüccar gemisi, Şeytan Deresi Batığı da bu müzedeki sergilerde yerlerini almış. Bu batık gemiden 3 ton civarı kırık ya da sağlam cam çıkarılmış. Böylece dünyanın en büyük İslami Cam koleksiyonuna sahip müze bu özelliklerinden dolayı her sene birçok yerli ve yabancı turist tarafından ilgi görmeye devam ediyor. Müze 1995 yılında Avrupa’da düzenlenen Yılın Müzesi yarışmasında “Özel Övgü” ödülünü almış. Türkiye’de tek, dünya çapında ise su altı müzelerin arasında en önemlilerinden biri olma özelliğine sahip. Bodrum Su Altı Arkeoloji Müzesi sergilerinde  amforalar, MS VII. yüzyıl Doğu Roma Gemisi, camlar, hamam, MS XI. yüzyıl Serçe Limanı Cam Batığı, Yılanlı Kule, Sikke ve Mücevherat Salonu, Karyalı Prenses, İngiliz Kulesi, Tunç Çağ Batıkları, Zindan ve Komutan Kulesi kalıntıları bulunuyor. Müzede giriş ücretli olup, 65 yaş üzeri ve 18 yaş altı kişilerden ücret alınmıyor. Müzenin açık olduğu saatler ise 9.00-19.00 arası.\nSalmakis Burcu (Kaplan Kalesi)\nBodrum’un yakın çevresinde bulunan Bardakçı Koyu’nun sırtlarında bulunan Kaplan Kalesi, içinde bulunan tatlı su kaynağıyla da dikkat çekiyor. Bu tatlı suyun ise esasında mitolojide yer almış Afrodit’in su içtiği Salmakis Çeşmesi’nden akan su olduğuna inanılıyor. Adını da bu çeşmeden alan kale, mitolojik bir efsaneye de ev sahipliği yapıyor. Hermafrodit Efsanesi’ne konu olan bir aşk hikayesi ve bu efsaneye göre Afrodit’in oğlu bir gün bu Salmakis suyunda yıkanırken, bu suyun perisi onu görür ve aşık olur. Salmakis su perisinin aşk teklifleri reddedilince, birden aşık olduğu oğlana sarılarak aşklarının bütünlüğü ve tek vücut olmalarını için Tanrılara dua eder. Bu dileği kabul olan perinin erkek vücuduyla birleşmesi sonucu tekvücut haline gelmeleri ve buna da Hermafrodit adı verilmesi sağlanmış. İşte bu efsaneyle ünlü bu kale her zaman turistlerin yoğun ilgisini çekmeye devam ediyor.\nBodrum Osmanlı Tersanesi\nAntik çağlardan beri hizmet veren bu tersane, Osmanlı donanmasına gemi takviyesi sağladığı için Bodrum Osmanlı Tersanesi olarak anılıyor. Muhtemel saldırıların önüne geçebilmek adına gözetleme kulesi ile desteklenen tersane binası, artık bir sanat galerisine ev sahipliği yapıyor.",
+            "Bodrum Kalesi\nBodrum’da görülmesi gereken yerlerin başında Bodrum Kalesi yer alıyor. Yabancılar tarafından St. Peter Kalesi olarak da adlandırılan kale Bodrum’da ilk uğranması gereken yerlerden biri. 1400’lü yıllarda St. Jean şövalyeleri tarafından yapılan kale bugün Bodrum Sualtı Müzesi olarak hizmet veriyor. Dünyanın en eski batık gemisinin yer aldığı müzeyi gezerken bu kalıntıyı görebilir, olağanüstü sualtı hazinelerini yakından inceleyebilirsiniz. Bunun yanında kaledeki zindan ve işkence odalarını da gezmenizi tavsiye ediyoruz. Tüm kaleyi 2-3 saat gibi bir sürede gezebilmeniz mümkün. Kaleye giriş 20 TL fakat müze kartınız varsa ücretsiz girebilirsiniz.\nBodrum Su Altı Arkeoloji Müzesi\nBodrum’un simgesi haline gelen kalenin içinde bulunan Su Altı Arkeoloji Müzesi’nin kuruluş tarihi 1964 yılına kadar uzanıyor. Üç tarafı denizlerle çevrilmiş yarımada şeklinde bulunan Bodrum Kalesi her yıl çok fazla turist ziyaretine ev sahipliği yapıyor. Dolayısıyla kalenin önemli bir yerine sahip bu müze, genellikle su altı kalıntılarının sergilendiği bir yer olmuş durumda. 1986 yılında ise Paşabahçe Şişe ve Cam fabrikalarının katkılarıyla, kronolojik olarak düzenlenmiş, cam koleksiyonu ile ilgili bilgi veren cam salonu açılmış. Ayrı ayrı 14 sergileme kısmı bulunan ve bu bölümlerde genelde su altı eserlerine yer verilen müze aynı zamanda Bodrum’un en çok ziyaretçi çeken yerlerinden biri olma özelliği taşıyor. Bunun yanı sıra müze, dünyadaki en zengin Doğu Akdeniz amforalarına da sahip olmasıyla öne çıkıyor. Yine müzede sergilenen batık gemi kalıntıları, dünyada en eski bulunan eserler olup, geminin 1025 yılında batmış Uluburun Batığı olduğu biliniyor. Tunç Devri’ne ait bu gemi Likya ticaret gemisi olma özelliğinde… Geminin ahşapları zaman içinde çürümüş olduğundan, aslına sadık kalınarak yapılmış maketi de bu müzede sergileniyor. Tabii tek batık gemi bu değil sergilenen; Marmaris Serçe Limanı batığı ve Tektaş Batığı, Finike Gelidonya Burnu batığı, Bodrum Yassı ada batığı, Roma Tüccar gemisi, Şeytan Deresi Batığı da bu müzedeki sergilerde yerlerini almış. Bu batık gemiden 3 ton civarı kırık ya da sağlam cam çıkarılmış. Böylece dünyanın en büyük İslami Cam koleksiyonuna sahip müze bu özelliklerinden dolayı her sene birçok yerli ve yabancı turist tarafından ilgi görmeye devam ediyor. Müze 1995 yılında Avrupa’da düzenlenen Yılın Müzesi yarışmasında “Özel Övgü” ödülünü almış. Türkiye’de tek, dünya çapında ise su altı müzelerin arasında en önemlilerinden biri olma özelliğine sahip. Bodrum Su Altı Arkeoloji Müzesi sergilerinde  amforalar, MS VII. yüzyıl Doğu Roma Gemisi, camlar, hamam, MS XI. yüzyıl Serçe Limanı Cam Batığı, Yılanlı Kule, Sikke ve Mücevherat Salonu, Karyalı Prenses, İngiliz Kulesi, Tunç Çağ Batıkları, Zindan ve Komutan Kulesi kalıntıları bulunuyor. Müzede giriş ücretli olup, 65 yaş üzeri ve 18 yaş altı kişilerden ücret alınmıyor. Müzenin açık olduğu saatler ise 9.00-19.00 arası.\nSalmakis Burcu (Kaplan Kalesi)\nBodrum’un yakın çevresinde bulunan Bardakçı Koyu’nun sırtlarında bulunan Kaplan Kalesi, içinde bulunan tatlı su kaynağıyla da dikkat çekiyor. Bu tatlı suyun ise esasında mitolojide yer almış Afrodit’in su içtiği Salmakis Çeşmesi’nden akan su olduğuna inanılıyor. Adını da bu çeşmeden alan kale, mitolojik bir efsaneye de ev sahipliği yapıyor. Hermafrodit Efsanesi’ne konu olan bir aşk hikayesi ve bu efsaneye göre Afrodit’in oğlu bir gün bu Salmakis suyunda yıkanırken, bu suyun perisi onu görür ve aşık olur. Salmakis su perisinin aşk teklifleri reddedilince, birden aşık olduğu oğlana sarılarak aşklarının bütünlüğü ve tek vücut olmalarını için Tanrılara dua eder. Bu dileği kabul olan perinin erkek vücuduyla birleşmesi sonucu tekvücut haline gelmeleri ve buna da Hermafrodit adı verilmesi sağlanmış. İşte bu efsaneyle ünlü bu kale her zaman turistlerin yoğun ilgisini çekmeye devam ediyor.\nBodrum Osmanlı Tersanesi\nAntik çağlardan beri hizmet veren bu tersane, Osmanlı donanmasına gemi takviyesi sağladığı için Bodrum Osmanlı Tersanesi olarak anılıyor. Muhtemel saldırıların önüne geçebilmek adına gözetleme kulesi ile desteklenen tersane binası, artık bir sanat galerisine ev sahipliği yapıyor."
+        ]
+    },
+    "bugün hava nasıl": {
+        "words": [
+            "bugün",
+            "hava",
+            "nasıl"
+        ],
+        "response": "Bugün hava oldukça güneşli ve sıcak. Dışarıda güzel bir gün geçirebilirsiniz!"
+    },
+    "antalyada konaklanacak yerler": {
+        "words": [
+            "antalyada",
+            "konaklanacak",
+            "yerler"
+        ],
+        "response": "antalyada konaklama yapılacak yerler; lara, belek, manavgat, alanya, kemer"
+    },
+    "selam ": {
+        "words": [
+            "selam"
+        ],
+        "response": "Merhaba Size Nasıl Yardımcı olabilirim ?"
+    },
+    "adın ne": {
+        "words": [
+            "adın",
+            "ne"
+        ],
+        "response": [
+            "Adım MANSUR 01.06.2024 yılında Sezer Mansur Tarafından geliştirildim ve Geliştirilmeye devam ediyorum.",
+            "Adım MANSUR 01.06.2024 yılında Sezer Mansur Tarafından geliştirildim ve Geliştirilmeye devam ediyorum."
+        ]
+    },
+    "adın nedir": {
+        "words": [
+            "adın",
+            "nedir"
+        ],
+        "response": "Adım MANSUR 01.06.2024 yılında Sezer Mansur Tarafından geliştirildim ve Geliştirilmeye devam ediyorum."
+    },
+    "ankara": {
+        "words": [
+            "ankara"
+        ],
+        "response": ""
+    },
+    "ANKARA": {
+        "words": [
+            "ANKARA"
+        ],
+        "response": "Ankara Türkiyenin merkezinde ve Türkiye Cumhuriyetinin Başkentidir."
+    },
+    "izmir": {
+        "words": [
+            "izmir"
+        ],
+        "response": "İzmir'de Efes Antik Kenti, Smyrna Antik Kenti, Agora Açık Hava Müzesi ve Kadifekale gibi tarihi yerler ziyaret edilebilir."
+    },
+    "efes": {
+        "words": [
+            "efes"
+        ],
+        "response": "Efes Antik Kenti, İzmir'in Selçuk ilçesinde yer almaktadır."
+    },
+    "ACANTHUS CENNET BARUT COLLECTION": {
+        "words": [
+            "ACANTHUS",
+            "CENNET",
+            "BARUT",
+            "COLLECTION"
+        ],
+        "response": "ACANTHUS CENNET BARUT COLLECTION oteli Antalya'nın Side ilçesinde bulunuyor ve 5 yıldızlı."
+    },
+    "AKRA ANTALYA": {
+        "words": [
+            "AKRA",
+            "ANTALYA"
+        ],
+        "response": "AKRA ANTALYA oteli Antalya merkezde bulunuyor ve 5 yıldızlı."
+    },
+    "AKRA KEMER": {
+        "words": [
+            "AKRA",
+            "KEMER"
+        ],
+        "response": "AKRA KEMER oteli Antalya'nın Kemer ilçesinde bulunuyor ve 5 yıldızlı."
+    },
+    "akra": {
+        "words": [
+            "akra"
+        ],
+        "response": "Hangi akra oteli soruyorsunuz ?"
+    },
+    "AKRA": {
+        "words": [
+            "AKRA"
+        ],
+        "response": "Hangi akra oteli soruyorsunuz ?"
+    },
+    "akra kemer": {
+        "words": [
+            "akra",
+            "kemer"
+        ],
+        "response": "AKRA KEMER oteli Antalya'nın Kemer ilçesinde bulunuyor ve 5 yıldızlı."
+    },
+    "akra antalya": {
+        "words": [
+            "akra",
+            "antalya"
+        ],
+        "response": "AKRA ANTALYA oteli Antalya merkezde bulunuyor ve 5 yıldızlı."
+    },
+    "antalya akra": {
+        "words": [
+            "antalya",
+            "akra"
+        ],
+        "response": "AKRA ANTALYA oteli Antalya merkezde bulunuyor ve 5 yıldızlı."
+    },
+    "alarcha hotels & resorts": {
+        "words": [
+            "antalya",
+            "alarcha",
+            "alarcha hotels",
+            "alarcha hotels & resorts"
+        ],
+        "response": "ALARCHA HOTELS & RESORTS oteli Antalya side de bulunuyor ve 5 yıldızlı."
+    },
+    "alarcha": {
+        "words": [
+            "alarcha"
+        ],
+        "response": "ALARCHA HOTELS & RESORTS oteli Antalya side de bulunuyor ve 5 yıldızlı."
+    },
+    "ne yapıyorsun": {
+        "words": [
+            "ne",
+            "yapıyorsun"
+        ],
+        "response": "Bugün birkaç projede çalışıyorum ve yeni bilgiler öğreniyorum. Senin günün nasıl geçiyor?"
+    },
+    "benim günümde iyi geçiyor": {
+        "words": [
+            "benim",
+            "günümde",
+            "iyi",
+            "geçiyor"
+        ],
+        "response": "Harika! Size nasıl yardımcı olabilirim?"
+    },
+    "güzel geçiyor": {
+        "words": [
+            "güzel",
+            "geçiyor"
+        ],
+        "response": "Harika! Size nasıl yardımcı olabilirim?"
+    },
+    "antalya otellerini listele": {
+        "words": [
+            "antalya",
+            "otellerini",
+            "listele"
+        ],
+        "response": "Henüz antalya oteli listesi veremiyorum"
+    },
+    "antalya oteli listele": {
+        "words": [
+            "antalya",
+            "oteli",
+            "listele"
+        ],
+        "response": "Henüz antalya oteli listesi veremiyorum"
+    },
+    "antalya da konaklanabilecek oteller": {
+        "words": [
+            "antalya",
+            "da",
+            "konaklanabilecek",
+            "oteller"
+        ],
+        "response": "rixos belek, susesi, ele otel. Bunlar konaklayabileceğiniz otellerden bazıları."
+    },
+    "antalyada konaklanılacak oteller": {
+        "words": [
+            "antalyada",
+            "konaklanılacak",
+            "oteller"
+        ],
+        "response": "Antalya'da bulunan bazı 5 yıldızlı oteller: Rixos Premium Belek, Titanic Deluxe Belek, Maxx Royal Belek Golf Resort, Delphin Imperial Lara, Mardan Palace gibi."
+    },
+    "antalya otelleri": {
+        "words": [
+            "antalya",
+            "otelleri"
+        ],
+        "response": "barut otel, topkapı place, titanic lara, club hotel sera. Bunlar antalyada bulunan otellerin bazıları."
+    },
+    "antalyada geilecek yerler ": {
+        "words": [
+            "antalyada",
+            "geilecek",
+            "yerler"
+        ],
+        "response": "Antalya, hem gündüz hem de gece yapılacak çeşitli aktiviteler ve gezilecek birçok yer ile dolu bir Akdeniz şehridir. Doğal güzellikleri, plajları ve tarihi yerleri özellikle gündüz yapılacak gezilerin rotasını oluşturur. Altın renkli kumsalları ve mavi bayraklı denizleri ile Antalya plajları hem Türkiye’nin hem de dünyanın her yerinden turistlerin Antalya’ya akın etmesinin başlıca sebeplerindendir. Bunun yanında Antalya’da güzelliğiyle büyüleyen çeşitli doğal oluşumlar da gezilecek yerler listesinin ilk sıralarında yer alır. Şelaleler, kanyonlar, mağaralarla dolu Antalya’da açık hava müzesi sayılabilecek antik kentler de yer alır. Manavgat, bu anlamda Antalya’nın doğal güzellikleri ile ünlü ilçelerinden birisidir. İlçenin adını taşıyan Manavgat Şelalesi, Manavgat Nehri’nin kuzeyinde yer alır. Çevresinde düzenlenmiş bir mesire alanı bulunur. Ahmetler Kanyonu, Manavgat’ta bulunan çağlayanları ve düdenleri ile dikkat çeken doğal güzelliklerden bir diğeridir. Ayrıca Side’de düzenlenen tekne turlarına katılabileceğiniz Yeşil Kanyon da Manavgat’ta bulunur. Yine Manavgat’tan denize dökülen Alara Çayı, yerli ve yabancı turistler için keyif dolu bir rafting alanıdır. Alara Çayı’nın başlangıç noktası ise Uçansu Şelalesi’dir. Toros Dağları’nın ortasında bulunan bu şelalenin ziyaretçisi az olsa da göz alıcı bir güzelliğe sahiptir. Manavgat vadisi yakınlarında ise İbradı Altınbeşik Mağarası bulunur. Antalya’nın en ünlü mağaralarının bulunduğu ilçe Alanya’dır. Damlataş Mağarası Alanya’nın merkezine oldukça yakındır. Alanya Dim Mağarası ise ilçenin doğusunda ve yaklaşık 1700 metrelik yükseklikte bulunan, turizme açık bir mağaradır. Antalya’nın en sevilen ilçelerinden olan Alanya’da gezilecek yerlerden bir diğeri ise Sapadere Kanyonu’dur. Özellikle yaz turizmcilerinin gözdesi olan Lara ve Kemer bölgelerinde de gezilecek doğal güzellikler yer alır. Kemer’de bulunan Göynük Kanyonu, dünyanın en iyi 10 trekking parkuru arasında sıralanır. Antalya’nın ünlü şelalelerinden olan Aşağı Düden ve Yukarı Düden Şelaleleri de Antalya’da mutlaka gezmeniz gereken yerlerdendir. Aşağı Düden Şelalesi Lara Plajı’na inen yolda konumlanır. Yukarı Düden Şelalesi ise Varsaklar beldesinin üst kısımlarında yer alır. Antalya-Fethiye yolunda ise Saklıkent Kanyonu, turistlerin akın ettiği noktalardan birisidir. Kaş ve Kalkan bölgesi, mavi bayraklı plajları, sakin koyları ve kendine has atmosferi ile turistlerin ilgisini çeken beldelerdir. Gece hayatının da oldukça aktif bir şekilde yaşandığı Antalya’da gündüz gidilebilecek sayısız mekana ek olarak; gece saatlerinde de gidebileceğiniz, her kitleye uygun restoran, cafe, pub, çay bahçesi, park ve yürüyüş yolları mevcuttur. Eğlence odaklı tatili sevenler gündüz plajların tadını çıkarırken geceleri ise geç saatlere kadar farklı mekanlarda eğlencenin doruklarına çıkabilirler."
+    },
+    "antalyada gezilecek yerler": {
+        "words": [
+            "antalyada",
+            "gezilecek",
+            "yerler"
+        ],
+        "response": [
+            "Antalya, hem gündüz hem de gece yapılacak çeşitli aktiviteler ve gezilecek birçok yer ile dolu bir Akdeniz şehridir. Doğal güzellikleri, plajları ve tarihi yerleri özellikle gündüz yapılacak gezilerin rotasını oluşturur. Altın renkli kumsalları ve mavi bayraklı denizleri ile Antalya plajları hem Türkiye’nin hem de dünyanın her yerinden turistlerin Antalya’ya akın etmesinin başlıca sebeplerindendir. Bunun yanında Antalya’da güzelliğiyle büyüleyen çeşitli doğal oluşumlar da gezilecek yerler listesinin ilk sıralarında yer alır. Şelaleler, kanyonlar, mağaralarla dolu Antalya’da açık hava müzesi sayılabilecek antik kentler de yer alır. Manavgat, bu anlamda Antalya’nın doğal güzellikleri ile ünlü ilçelerinden birisidir. İlçenin adını taşıyan Manavgat Şelalesi, Manavgat Nehri’nin kuzeyinde yer alır. Çevresinde düzenlenmiş bir mesire alanı bulunur. Ahmetler Kanyonu, Manavgat’ta bulunan çağlayanları ve düdenleri ile dikkat çeken doğal güzelliklerden bir diğeridir. Ayrıca Side’de düzenlenen tekne turlarına katılabileceğiniz Yeşil Kanyon da Manavgat’ta bulunur. Yine Manavgat’tan denize dökülen Alara Çayı, yerli ve yabancı turistler için keyif dolu bir rafting alanıdır. Alara Çayı’nın başlangıç noktası ise Uçansu Şelalesi’dir. Toros Dağları’nın ortasında bulunan bu şelalenin ziyaretçisi az olsa da göz alıcı bir güzelliğe sahiptir. Manavgat vadisi yakınlarında ise İbradı Altınbeşik Mağarası bulunur. Antalya’nın en ünlü mağaralarının bulunduğu ilçe Alanya’dır. Damlataş Mağarası Alanya’nın merkezine oldukça yakındır. Alanya Dim Mağarası ise ilçenin doğusunda ve yaklaşık 1700 metrelik yükseklikte bulunan, turizme açık bir mağaradır. Antalya’nın en sevilen ilçelerinden olan Alanya’da gezilecek yerlerden bir diğeri ise Sapadere Kanyonu’dur. Özellikle yaz turizmcilerinin gözdesi olan Lara ve Kemer bölgelerinde de gezilecek doğal güzellikler yer alır. Kemer’de bulunan Göynük Kanyonu, dünyanın en iyi 10 trekking parkuru arasında sıralanır. Antalya’nın ünlü şelalelerinden olan Aşağı Düden ve Yukarı Düden Şelaleleri de Antalya’da mutlaka gezmeniz gereken yerlerdendir. Aşağı Düden Şelalesi Lara Plajı’na inen yolda konumlanır. Yukarı Düden Şelalesi ise Varsaklar beldesinin üst kısımlarında yer alır. Antalya-Fethiye yolunda ise Saklıkent Kanyonu, turistlerin akın ettiği noktalardan birisidir. Kaş ve Kalkan bölgesi, mavi bayraklı plajları, sakin koyları ve kendine has atmosferi ile turistlerin ilgisini çeken beldelerdir. Gece hayatının da oldukça aktif bir şekilde yaşandığı Antalya’da gündüz gidilebilecek sayısız mekana ek olarak; gece saatlerinde de gidebileceğiniz, her kitleye uygun restoran, cafe, pub, çay bahçesi, park ve yürüyüş yolları mevcuttur. Eğlence odaklı tatili sevenler gündüz plajların tadını çıkarırken geceleri ise geç saatlere kadar farklı mekanlarda eğlencenin doruklarına çıkabilirler.",
+            "Antalya, hem gündüz hem de gece yapılacak çeşitli aktiviteler ve gezilecek birçok yer ile dolu bir Akdeniz şehridir. Doğal güzellikleri, plajları ve tarihi yerleri özellikle gündüz yapılacak gezilerin rotasını oluşturur. Altın renkli kumsalları ve mavi bayraklı denizleri ile Antalya plajları hem Türkiye’nin hem de dünyanın her yerinden turistlerin Antalya’ya akın etmesinin başlıca sebeplerindendir. Bunun yanında Antalya’da güzelliğiyle büyüleyen çeşitli doğal oluşumlar da gezilecek yerler listesinin ilk sıralarında yer alır. Şelaleler, kanyonlar, mağaralarla dolu Antalya’da açık hava müzesi sayılabilecek antik kentler de yer alır. Manavgat, bu anlamda Antalya’nın doğal güzellikleri ile ünlü ilçelerinden birisidir. İlçenin adını taşıyan Manavgat Şelalesi, Manavgat Nehri’nin kuzeyinde yer alır. Çevresinde düzenlenmiş bir mesire alanı bulunur. Ahmetler Kanyonu, Manavgat’ta bulunan çağlayanları ve düdenleri ile dikkat çeken doğal güzelliklerden bir diğeridir. Ayrıca Side’de düzenlenen tekne turlarına katılabileceğiniz Yeşil Kanyon da Manavgat’ta bulunur. Yine Manavgat’tan denize dökülen Alara Çayı, yerli ve yabancı turistler için keyif dolu bir rafting alanıdır. Alara Çayı’nın başlangıç noktası ise Uçansu Şelalesi’dir. Toros Dağları’nın ortasında bulunan bu şelalenin ziyaretçisi az olsa da göz alıcı bir güzelliğe sahiptir. Manavgat vadisi yakınlarında ise İbradı Altınbeşik Mağarası bulunur. Antalya’nın en ünlü mağaralarının bulunduğu ilçe Alanya’dır. Damlataş Mağarası Alanya’nın merkezine oldukça yakındır. Alanya Dim Mağarası ise ilçenin doğusunda ve yaklaşık 1700 metrelik yükseklikte bulunan, turizme açık bir mağaradır. Antalya’nın en sevilen ilçelerinden olan Alanya’da gezilecek yerlerden bir diğeri ise Sapadere Kanyonu’dur. Özellikle yaz turizmcilerinin gözdesi olan Lara ve Kemer bölgelerinde de gezilecek doğal güzellikler yer alır. Kemer’de bulunan Göynük Kanyonu, dünyanın en iyi 10 trekking parkuru arasında sıralanır. Antalya’nın ünlü şelalelerinden olan Aşağı Düden ve Yukarı Düden Şelaleleri de Antalya’da mutlaka gezmeniz gereken yerlerdendir. Aşağı Düden Şelalesi Lara Plajı’na inen yolda konumlanır. Yukarı Düden Şelalesi ise Varsaklar beldesinin üst kısımlarında yer alır. Antalya-Fethiye yolunda ise Saklıkent Kanyonu, turistlerin akın ettiği noktalardan birisidir. Kaş ve Kalkan bölgesi, mavi bayraklı plajları, sakin koyları ve kendine has atmosferi ile turistlerin ilgisini çeken beldelerdir. Gece hayatının da oldukça aktif bir şekilde yaşandığı Antalya’da gündüz gidilebilecek sayısız mekana ek olarak; gece saatlerinde de gidebileceğiniz, her kitleye uygun restoran, cafe, pub, çay bahçesi, park ve yürüyüş yolları mevcuttur. Eğlence odaklı tatili sevenler gündüz plajların tadını çıkarırken geceleri ise geç saatlere kadar farklı mekanlarda eğlencenin doruklarına çıkabilirler."
+        ]
+    },
+    "antalyada balayı yapılacak yerler": {
+        "words": [
+            "antalyada",
+            "balayı",
+            "yapılacak",
+            "yerler"
+        ],
+        "response": "Her mevsim tatil yapabileceğiniz Antalya, hayatınızın en özel tatili olan balayı için farklı konseptlerde birçok alternatif sunar. “Peki, Antalyada balayı nerede yapılır?” derseniz; romantik bir tatil için Antalya’da balayı yapılacak yerler arasında ilk sırada Kaş ve Kalkan’ın yer aldığı söylenebilir. Sakin ve huzurlu koyları, eşsiz doğal güzellikleri ve kendine has sokaklarıyla Kaş ve Kalkan, Antalya villa kiralama planı yapanların en çok tercih ettiği yerlerdendir. Aynı zamanda Kaş - Kalkan gezilecek yerler açısından da yeni evli çiftlere birçok farklı seçenek sunar. Jakuzili, havuzlu, saunalı, özel bahçeli ve korunaklı balayı villalarında gözlerden uzak, romantik bir tatil sizi bekler. Şehir merkezine yakın villaları tercih edenler; günün farklı saatlerinde turistik yerleri gezme imkanına sahip olur. Bazı konaklama yerleri şehir manzarasına sahipken; bazıları deniz veya doğa manzaralıdır. Tek yatak odalı villalar balayı çiftleri için idealdir. Bunun yanında ultra lüks villa seçenekleri de bulunur. Daha fazla yatak odasının bulunduğu villalar ise kalabalık aile ve arkadaş gruplarının sıklıkla tercih ettiği konaklama alternatiflerindendir."
+    },
+    "Teşekkürler sen nasılsın ?": {
+        "words": [
+            "Teşekkürler",
+            "sen",
+            "nasılsın",
+            "?"
+        ],
+        "response": "Ben bir yapay zeka asistanıyım, her zaman buradayım! Size nasıl yardımcı olabilirim?"
+    },
+    "bugün yemekte ne var": {
+        "words": [
+            "bugün",
+            "yemekte",
+            "ne",
+            "var"
+        ],
+        "response": "Bugün yemekte tavuklu salata ve pilav var. İsterseniz daha detaylı bir menü verebilirim."
+    },
+    "detaylı menu ver": {
+        "words": [
+            "detaylı",
+            "menu",
+            "ver"
+        ],
+        "response": "Sadece şaka yapmak istedim."
+    },
+    "menu ver": {
+        "words": [
+            "menu",
+            "ver"
+        ],
+        "response": "Sadece şaka yapmak istedim."
+    },
+    "rixos": {
+        "words": [
+            "rixos"
+        ],
+        "response": "Hangi rixos otel ?"
+    },
+    "rixos downtown": {
+        "words": [
+            "rixos",
+            "downtown"
+        ],
+        "response": "Rixos Downtown Antalya, şehir merkezinde yer alan lüks bir oteldir. Deniz manzaralı odaları, geniş bahçeleri ve modern olanakları ile misafirlerine konforlu bir konaklama sunar."
+    },
+    "rixod downtown": {
+        "words": [
+            "rixod",
+            "downtown"
+        ],
+        "response": "Rixos Downtown Antalya, şehir merkezinde yer alan lüks bir oteldir. Deniz manzaralı odaları, geniş bahçeleri ve modern olanakları ile misafirlerine konforlu bir konaklama sunar."
+    },
+    "Rixod Downtown": {
+        "words": [
+            "Rixod",
+            "Downtown"
+        ],
+        "response": "Rixos Downtown Antalya, şehir merkezinde yer alan lüks bir oteldir. Deniz manzaralı odaları, geniş bahçeleri ve modern olanakları ile misafirlerine konforlu bir konaklama sunar."
+    },
+    "antalya kalesi": {
+        "words": [
+            "antalya",
+            "kalesi"
+        ],
+        "response": "Antalya'nın ilçesi Alanya'nın simgelerinden biri olan kale. Denizden yaklaşık olarak 250 metre kadar yükselen bir yarımada üzerinde bulunmaktadır. Surlarının uzunluğu toplam olarak 6,5 kilometredir. Eski dönemlerde Kandeleri olarak adlandırılan Alanya yerleşimine kale Helenistik dönemde inşa edilmiştir. Günümüzdeki tarihi dokusu 13.yüzyıl Selçuklu eseri olan kalenin tarihi Helenistik döneme kadar inmektedir. Kale, 1221 yılında kenti alıp yeniden inşa ettiren Selçuklu Sultanı I. Alaeddin Keykubad tarafından yaptırılmıştır. Kalede toplam 83 kule ve 140 burç vardır. Orta Çağ'da surların içinde bulunan kentin su gereksinimini sağlamak üzere 1200 kadar sarnıç yapılmıştır. Sarnıçların bir kısmı hâlen kullanılmaktadır. Surlar, planlı bir şekilde Ehmedek, İçkale, Adam Atacağı, Cilvarda burnu, Arap Evliyası ve Esat Burcu'nu takiben Tophane ile Tersane'yi geçip Kızılkule'de bitecek şekilde yapılmıştır."
+    },
+    "rixos otel fiyatı": {
+        "words": [
+            "rixos",
+            "otel",
+            "fiyatı"
+        ],
+        "response": "Hangi rixos otel ?"
+    },
+    "Akra Hotel Antalya'da hangi olanaklar var": {
+        "words": [
+            "akra",
+            "hotel",
+            "antalya",
+            "olanaklar",
+            "var"
+        ],
+        "response": "Akra Hotel Antalya, misafirlerine çeşitli olanaklar sunmaktadır. Bunlar arasında açık ve kapalı yüzme havuzları, deniz manzaralı odalar, spa ve sağlık merkezi, çeşitli restoranlar, spor salonu ve toplantı salonları bulunmaktadır."
+    },
+    "Akra Hotel Antalya'nın konumu nedir": {
+        "words": [
+            "akra",
+            "hotel",
+            "antalya",
+            "konum",
+            "nedir"
+        ],
+        "response": "Akra Hotel, Antalya'nın şehir merkezinde yer almaktadır. Otel, Akdeniz'e nazır bir konumda olup, denize sıfırdır. Ayrıca, otel Antalya Havalimanı'na yaklaşık 15 km uzaklıktadır."
+    },
+    "Akra Hotel Antalya'nın restoranları hakkında bilgi ver": {
+        "words": [
+            "akra",
+            "hotel",
+            "antalya",
+            "restoran",
+            "bilgi",
+            "ver"
+        ],
+        "response": "Akra Hotel Antalya, misafirlerine çeşitli restoran seçenekleri sunmaktadır. Otelin restoranları, dünya mutfaklarından ve Türk mutfağından lezzetler sunar. Ayrıca, otelin terasında deniz manzarası eşliğinde yemek yiyebilirsiniz."
+    },
+    "akra hotel konumu": {
+        "words": [
+            "akra",
+            "hotel",
+            "konumu"
+        ],
+        "response": "Hangi akra oteli soruyorsunuz ?"
+    },
+    "akra hotel antalya nın konumu": {
+        "words": [
+            "akra",
+            "hotel",
+            "antalya",
+            "nın",
+            "konumu"
+        ],
+        "response": "Akra Hotel, Antalya'nın şehir merkezinde yer almaktadır. Otel, Akdeniz'e nazır bir konumda olup, denize sıfırdır. Ayrıca, otel Antalya Havalimanı'na yaklaşık 15 km uzaklıktadır."
+    },
+    "akra hotel antalyanın restaurantları": {
+        "words": [
+            "akra",
+            "hotel",
+            "antalyanın",
+            "restaurantları"
+        ],
+        "response": "Akra Hotel Antalya, misafirlerine çeşitli restoran seçenekleri sunmaktadır. Otelin restoranları, dünya mutfaklarından ve Türk mutfağından lezzetler sunar. Ayrıca, otelin terasında deniz manzarası eşliğinde yemek yiyebilirsiniz."
+    },
+    "akra hotel antalya restorantları": {
+        "words": [
+            "akra",
+            "hotel",
+            "antalya",
+            "restorantları"
+        ],
+        "response": "Akra Hotel Antalya, misafirlerine çeşitli restoran seçenekleri sunmaktadır. Otelin restoranları, dünya mutfaklarından ve Türk mutfağından lezzetler sunar. Ayrıca, otelin terasında deniz manzarası eşliğinde yemek yiyebilirsiniz."
+    },
+    "akra hotel restaurantları": {
+        "words": [
+            "akra",
+            "hotel",
+            "restaurantları"
+        ],
+        "response": "Akra Hotel Antalya, misafirlerine çeşitli restoran seçenekleri sunmaktadır. Otelin restoranları, dünya mutfaklarından ve Türk mutfağından lezzetler sunar. Ayrıca, otelin terasında deniz manzarası eşliğinde yemek yiyebilirsiniz."
+    },
+    "akra hotel antalya restaurantları": {
+        "words": [
+            "akra",
+            "hotel",
+            "antalya",
+            "restaurantları"
+        ],
+        "response": "Akra Hotel Antalya, misafirlerine çeşitli restoran seçenekleri sunmaktadır. Otelin restoranları, dünya mutfaklarından ve Türk mutfağından lezzetler sunar. Ayrıca, otelin terasında deniz manzarası eşliğinde yemek yiyebilirsiniz."
+    },
+    "Antalya Havalimanı hakkında bilgi ver": {
+        "words": [
+            "antalya",
+            "havalimanı",
+            "bilgi",
+            "ver"
+        ],
+        "response": "Antalya Havalimanı, Türkiye'nin Akdeniz kıyısında yer alan Antalya şehrine hizmet veren uluslararası bir havalimanıdır. 1960 yılında açılan havalimanı, Antalya şehir merkezine yaklaşık 13 km uzaklıktadır ve her yıl milyonlarca yerli ve yabancı turisti ağırlamaktadır. Havalimanı, üç terminale sahiptir: iç hatlar, dış hatlar 1 ve dış hatlar 2 terminalleri."
+    },
+    "Antalya Havalimanı'na nasıl gidilir": {
+        "words": [
+            "antalya",
+            "havalimanı",
+            "nasıl",
+            "gidilir"
+        ],
+        "response": "Antalya Havalimanı'na şehir merkezinden Havaş otobüsleri, taksi, özel araç veya çeşitli otobüs hatları ile ulaşabilirsiniz. Şehir merkezinden havalimanına ulaşım yaklaşık 20-30 dakika sürmektedir."
+    },
+    "Antalya Havalimanı'ndaki hizmetler nelerdir": {
+        "words": [
+            "antalya",
+            "havalimanı",
+            "hizmetler",
+            "nelerdir"
+        ],
+        "response": "Antalya Havalimanı, yolcularına çeşitli hizmetler sunmaktadır. Bunlar arasında restoranlar, kafeler, duty-free mağazaları, VIP salonları, araç kiralama hizmetleri, banka ve döviz büroları, bagaj hizmetleri ve ücretsiz Wi-Fi bulunmaktadır."
+    },
+    "Antalya Havalimanı'nın yıllık yolcu kapasitesi nedir": {
+        "words": [
+            "antalya",
+            "havalimanı",
+            "yıllık",
+            "yolcu",
+            "kapasitesi",
+            "nedir"
+        ],
+        "response": "Antalya Havalimanı, yıllık yaklaşık 35 milyon yolcu kapasitesine sahiptir. Bu kapasite, özellikle yaz aylarında yoğun turist trafiği nedeniyle artmaktadır."
+    },
+    "Antalya Havalimanı'nın kodu nedir": {
+        "words": [
+            "antalya",
+            "havalimanı",
+            "kodu",
+            "nedir"
+        ],
+        "response": "Antalya Havalimanı'nın IATA kodu AYT, ICAO kodu ise LTAI'dir."
+    },
+    "antalya havalimanı hakkında bilgi ver": {
+        "words": [
+            "antalya",
+            "havalimanı",
+            "hakkında",
+            "bilgi",
+            "ver"
+        ],
+        "response": "Antalya Havalimanı, Türkiye'nin Akdeniz kıyısında yer alan Antalya şehrine hizmet veren uluslararası bir havalimanıdır. 1960 yılında açılan havalimanı, Antalya şehir merkezine yaklaşık 13 km uzaklıktadır ve her yıl milyonlarca yerli ve yabancı turisti ağırlamaktadır. Havalimanı, üç terminale sahiptir: iç hatlar, dış hatlar 1 ve dış hatlar 2 terminalleri."
+    },
+    "antalya havalimanına nasıl gidilir": {
+        "words": [
+            "antalya",
+            "havalimanına",
+            "nasıl",
+            "gidilir"
+        ],
+        "response": "Antalya Havalimanı'na şehir merkezinden Havaş otobüsleri, taksi, özel araç veya çeşitli otobüs hatları ile ulaşabilirsiniz. Şehir merkezinden havalimanına ulaşım yaklaşık 20-30 dakika sürmektedir."
+    },
+    "antalya havalimanındaki hizmetler nelerdir": {
+        "words": [
+            "antalya",
+            "havalimanındaki",
+            "hizmetler",
+            "nelerdir"
+        ],
+        "response": "Antalya Havalimanı, yolcularına çeşitli hizmetler sunmaktadır. Bunlar arasında restoranlar, kafeler, duty-free mağazaları, VIP salonları, araç kiralama hizmetleri, banka ve döviz büroları, bagaj hizmetleri ve ücretsiz Wi-Fi bulunmaktadır."
+    },
+    "İstanbul Havalimanı hakkında bilgi ver": {
+        "words": [
+            "istanbul",
+            "havalimanı",
+            "bilgi",
+            "ver"
+        ],
+        "response": "İstanbul Havalimanı, Türkiye'nin en büyük şehri İstanbul'a hizmet veren ve Avrupa'nın en büyük havalimanlarından biridir. 2018 yılında açılan havalimanı, şehir merkezine yaklaşık 40 km uzaklıktadır ve modern mimarisi ile dikkat çekmektedir. Havalimanı, birçok uluslararası ve yerel uçuşa ev sahipliği yapmaktadır."
+    },
+    "İstanbul Havalimanı'na nasıl gidilir": {
+        "words": [
+            "istanbul",
+            "havalimanı",
+            "nasıl",
+            "gidilir"
+        ],
+        "response": "İstanbul Havalimanı'na şehir merkezinden Havaist otobüsleri, taksi, özel araç veya çeşitli toplu taşıma araçları ile ulaşabilirsiniz. Ayrıca, havalimanına Marmaray ve metro hatları ile de ulaşım mümkündür."
+    },
+    "İstanbul Havalimanı'ndaki hizmetler nelerdir": {
+        "words": [
+            "istanbul",
+            "havalimanı",
+            "hizmetler",
+            "nelerdir"
+        ],
+        "response": "İstanbul Havalimanı, yolcularına birçok hizmet sunmaktadır. Bunlar arasında restoranlar, kafeler, duty-free mağazaları, VIP salonları, araç kiralama hizmetleri, banka ve döviz büroları, bagaj hizmetleri ve ücretsiz Wi-Fi bulunmaktadır."
+    },
+    "İstanbul Havalimanı'nın yıllık yolcu kapasitesi nedir": {
+        "words": [
+            "istanbul",
+            "havalimanı",
+            "yıllık",
+            "yolcu",
+            "kapasitesi",
+            "nedir"
+        ],
+        "response": "İstanbul Havalimanı, yıllık yaklaşık 90 milyon yolcu kapasitesine sahiptir. Tam kapasiteye ulaştığında bu sayının 200 milyona kadar çıkması hedeflenmektedir."
+    },
+    "İstanbul Havalimanı'nın kodu nedir": {
+        "words": [
+            "istanbul",
+            "havalimanı",
+            "kodu",
+            "nedir"
+        ],
+        "response": "İstanbul Havalimanı'nın IATA kodu IST, ICAO kodu ise LTFM'dir."
+    },
+    "istanbul havalimanı hakkında bilgi ver": {
+        "words": [
+            "istanbul",
+            "havalimanı",
+            "hakkında",
+            "bilgi",
+            "ver"
+        ],
+        "response": [
+            "İstanbul Havalimanı, Türkiye'nin en büyük şehri İstanbul'a hizmet veren ve Avrupa'nın en büyük havalimanlarından biridir. 2018 yılında açılan havalimanı, şehir merkezine yaklaşık 40 km uzaklıktadır ve modern mimarisi ile dikkat çekmektedir. Havalimanı, birçok uluslararası ve yerel uçuşa ev sahipliği yapmaktadır.",
+            "İstanbul Havalimanı, Türkiye'nin en büyük şehri İstanbul'a hizmet veren ve Avrupa'nın en büyük havalimanlarından biridir. 2018 yılında açılan havalimanı, şehir merkezine yaklaşık 40 km uzaklıktadır ve modern mimarisi ile dikkat çekmektedir. Havalimanı, birçok uluslararası ve yerel uçuşa ev sahipliği yapmaktadır."
+        ]
+    },
+    "istanbul havalimanının yıllık yolcu kapasitesi nedir": {
+        "words": [
+            "istanbul",
+            "havalimanının",
+            "yıllık",
+            "yolcu",
+            "kapasitesi",
+            "nedir"
+        ],
+        "response": "İstanbul Havalimanı, yıllık yaklaşık 90 milyon yolcu kapasitesine sahiptir. Tam kapasiteye ulaştığında bu sayının 200 milyona kadar çıkması hedeflenmektedir."
+    },
+    "Ayasofya hakkında bilgi ver": {
+        "words": [
+            "ayasofya",
+            "hakkında",
+            "bilgi",
+            "ver"
+        ],
+        "response": "Ayasofya, İstanbul'da yer alan ve hem Bizans hem de Osmanlı İmparatorluklarına ev sahipliği yapmış olan tarihi bir yapıdır. 537 yılında kilise olarak inşa edilmiş, 1453 yılında camiye dönüştürülmüş ve 1935 yılında müze olarak hizmet vermeye başlamıştır. 2020 yılında tekrar cami olarak kullanılmaya başlanmıştır."
+    },
+    "Ayasofya nerede": {
+        "words": [
+            "ayasofya",
+            "nerede"
+        ],
+        "response": "Ayasofya, Türkiye'nin İstanbul şehrinde, Sultanahmet bölgesinde yer almaktadır. Sultanahmet Camii'nin ve Topkapı Sarayı'nın yakınında bulunmaktadır."
+    },
+    "Ayasofya'nın mimari özellikleri nelerdir": {
+        "words": [
+            "ayasofya",
+            "mimari",
+            "özellikleri",
+            "nelerdir"
+        ],
+        "response": "Ayasofya, Bizans mimarisinin en önemli eserlerinden biridir. Büyük merkezi kubbesi, geniş iç mekânı ve mozaikleri ile dikkat çeker. Kubbesi, 55.6 metre yüksekliğinde ve 31.24 metre çapındadır. Ayasofya, İstanbul'un siluetinin önemli bir parçasıdır."
+    },
+    "Ayasofya'nın tarihi önemi nedir": {
+        "words": [
+            "ayasofya",
+            "tarihi",
+            "önemi",
+            "nedir"
+        ],
+        "response": "Ayasofya, Bizans İmparatorluğu'nun en büyük kilisesi olarak inşa edilmiş ve Osmanlı İmparatorluğu döneminde camiye dönüştürülmüştür. Hem Hristiyanlık hem de İslam dünyası için büyük öneme sahiptir. 1935 yılında müzeye dönüştürülerek kültürel miras olarak korunmuş, 2020 yılında tekrar cami olarak kullanılmaya başlanmıştır."
+    },
+    "Ayasofya'nın ziyaret saatleri nedir": {
+        "words": [
+            "ayasofya",
+            "ziyaret",
+            "saatleri",
+            "nedir"
+        ],
+        "response": "Ayasofya, cami olarak kullanıldığı için ziyaret saatleri namaz vakitlerine göre düzenlenmiştir. Namaz vakitleri dışında ziyaret edilebilir. Ziyaret saatleri ve detaylı bilgi için güncel kaynaklardan kontrol edilmesi tavsiye edilir."
+    },
+    "Ayasofya'nın giriş ücreti nedir": {
+        "words": [
+            "ayasofya",
+            "giriş",
+            "ücreti",
+            "nedir"
+        ],
+        "response": "Ayasofya, cami olarak kullanıldığı için giriş ücreti yoktur. Ancak, bazı bölümleri ziyarete kapalı olabilir ve ziyaret saatlerine dikkat edilmelidir."
+    },
+    "ayasofya hakkında bilgi ver": {
+        "words": [
+            "ayasofya",
+            "hakkında",
+            "bilgi",
+            "ver"
+        ],
+        "response": "Ayasofya, İstanbul'da yer alan ve hem Bizans hem de Osmanlı İmparatorluklarına ev sahipliği yapmış olan tarihi bir yapıdır. 537 yılında kilise olarak inşa edilmiş, 1453 yılında camiye dönüştürülmüş ve 1935 yılında müze olarak hizmet vermeye başlamıştır. 2020 yılında tekrar cami olarak kullanılmaya başlanmıştır."
+    },
+    "ayasofyanın tarihi önemi nedir": {
+        "words": [
+            "ayasofyanın",
+            "tarihi",
+            "önemi",
+            "nedir"
+        ],
+        "response": "Ayasofya, Bizans İmparatorluğu'nun en büyük kilisesi olarak inşa edilmiş ve Osmanlı İmparatorluğu döneminde camiye dönüştürülmüştür. Hem Hristiyanlık hem de İslam dünyası için büyük öneme sahiptir. 1935 yılında müzeye dönüştürülerek kültürel miras olarak korunmuş, 2020 yılında tekrar cami olarak kullanılmaya başlanmıştır."
+    },
+    "ayasofyanın giriş ücreti nedir": {
+        "words": [
+            "ayasofyanın",
+            "giriş",
+            "ücreti",
+            "nedir"
+        ],
+        "response": "Ayasofya, cami olarak kullanıldığı için giriş ücreti yoktur. Ancak, bazı bölümleri ziyarete kapalı olabilir ve ziyaret saatlerine dikkat edilmelidir."
+    },
+    "istanbul": {
+        "words": [
+            "istanbul"
+        ],
+        "response": "İstanbul, Türkiye'nin en büyük ve en kalabalık şehridir. Asya ve Avrupa kıtalarını birbirine bağlayan eşsiz bir konuma sahiptir. Tarihi, Bizans, Osmanlı ve Cumhuriyet dönemlerini kapsar. İstanbul, kültürel ve tarihi mirasıyla ünlüdür ve pek çok önemli yapıya ev sahipliği yapar."
+    },
+    "istanbul hakkında bilgi ver": {
+        "words": [
+            "istanbul",
+            "hakkında",
+            "bilgi",
+            "ver"
+        ],
+        "response": "İstanbul, Türkiye'nin en büyük ve en kalabalık şehridir. Asya ve Avrupa kıtalarını birbirine bağlayan eşsiz bir konuma sahiptir. Tarihi, Bizans, Osmanlı ve Cumhuriyet dönemlerini kapsar. İstanbul, kültürel ve tarihi mirasıyla ünlüdür ve pek çok önemli yapıya ev sahipliği yapar."
+    },
+    "istanbul havalimanı": {
+        "words": [
+            "istanbul",
+            "havalimanı"
+        ],
+        "response": [
+            ""
+        ]
+    },
+    "ANTALYA": {
+        "words": [
+            "ANTALYA"
+        ],
+        "response": "Antalya Türkiyenin güneyinde bulunan turizm şehridir."
+    },
+    "TRABZON": {
+        "words": [
+            "TRABZON"
+        ],
+        "response": "Trabzon'da kuymak, Akçaabat köftesi, hamsili pilav ve mısır ekmeği gibi lezzetler tadılabilir."
+    },
+    "istanbul hava durumu": {
+        "words": [
+            "istanbul",
+            "hava",
+            "durumu"
+        ],
+        "response": "İstanbul'un hava durumu, mevsimlere göre değişkenlik göstermektedir. İlkbahar ve sonbahar ayları genellikle ılıman ve yağışlı geçer. Yaz ayları sıcak ve nemli, kış ayları ise soğuk ve yağışlı olabilir. Güncel hava durumu bilgisi için meteorolojik kaynaklara başvurmanız önerilir."
+    },
+    "İstanbul metrosu hakkında bilgi ver": {
+        "words": [
+            "istanbul",
+            "metrosu",
+            "hakkında",
+            "bilgi",
+            "ver"
+        ],
+        "response": "İstanbul metrosu, İstanbul'da toplu taşımayı sağlamak amacıyla kullanılan geniş bir metro ağıdır. İlk metro hattı 1989 yılında açılmıştır. Günümüzde birçok hat ve istasyonla şehir genelinde hizmet vermektedir."
+    },
+    "İstanbul metrosu hatları nelerdir": {
+        "words": [
+            "istanbul",
+            "metrosu",
+            "hatları",
+            "nelerdir"
+        ],
+        "response": "İstanbul metrosu hatları arasında M1A (Yenikapı-Atatürk Havalimanı), M1B (Yenikapı-Kirazlı), M2 (Yenikapı-Hacıosman), M3 (Kirazlı-Olimpiyat-Başakşehir), M4 (Kadıköy-Tavşantepe), M5 (Üsküdar-Çekmeköy), M6 (Levent-Boğaziçi Üniversitesi/Hisarüstü), M7 (Mecidiyeköy-Mahmutbey), ve Marmaray hattı bulunmaktadır."
+    },
+    "İstanbul metrosu çalışma saatleri nelerdir": {
+        "words": [
+            "istanbul",
+            "metrosu",
+            "çalışma",
+            "saatleri",
+            "nelerdir"
+        ],
+        "response": "İstanbul metrosu genellikle sabah 06:00'dan gece 00:00'a kadar hizmet vermektedir. Ancak, belirli hatlar ve günler için çalışma saatleri değişebilir. Güncel ve detaylı bilgi için İstanbul Metro A.Ş.'nin resmi web sitesine göz atabilirsiniz."
+    },
+    "İstanbul metrosu bilet fiyatları ne kadar": {
+        "words": [
+            "istanbul",
+            "metrosu",
+            "bilet",
+            "fiyatları",
+            "ne",
+            "kadar"
+        ],
+        "response": "İstanbul metrosunda bilet fiyatları tam, öğrenci, öğretmen ve sosyal kartlar için farklılık göstermektedir. 2023 itibarıyla tam bilet fiyatı 9.90 TL, öğrenci bileti 4.83 TL'dir. İndirimli ve ücretsiz geçişler için İstanbulkart kullanabilirsiniz."
+    },
+    "İstanbul metrosunda nasıl seyahat edilir": {
+        "words": [
+            "istanbul",
+            "metrosunda",
+            "nasıl",
+            "seyahat",
+            "edilir"
+        ],
+        "response": "İstanbul metrosunda seyahat etmek için İstanbulkart kullanmanız gerekmektedir. İstanbulkart'ınızı metro istasyonlarındaki turnikelere okutarak giriş yapabilirsiniz. Hatların renkli haritaları ve tabelalar, seyahatinizi planlamanıza yardımcı olacaktır."
+    },
+    "İstanbul metrosu durakları nerelerdir": {
+        "words": [
+            "istanbul",
+            "metrosu",
+            "durakları",
+            "nerelerdir"
+        ],
+        "response": "İstanbul metrosunun durakları arasında Taksim, Şişli, Levent, Hacıosman, Yenikapı, Atatürk Havalimanı, Kirazlı, Olimpiyat, Kadıköy, Tavşantepe, Üsküdar, Çekmeköy gibi önemli duraklar bulunmaktadır. Her hattın kendine ait durakları ve güzergahı vardır."
+    },
+    "İstanbul metrosunda bisiklet taşınabilir mi": {
+        "words": [
+            "istanbul",
+            "metrosunda",
+            "bisiklet",
+            "taşınabilir",
+            "mi"
+        ],
+        "response": "Evet, İstanbul metrosunda belirli saatler dışında bisiklet taşıyabilirsiniz. Hafta içi 07:00-09:00 ve 17:00-20:00 saatleri arasında bisiklet taşımak yasaktır. Diğer saatlerde ve hafta sonları bisikletinizi yanınıza alabilirsiniz."
+    },
+    "istanbul metrosu": {
+        "words": [
+            "istanbul",
+            "metrosu"
+        ],
+        "response": [
+            "İstanbul metrosu hatları arasında M1A (Yenikapı-Atatürk Havalimanı), M1B (Yenikapı-Kirazlı), M2 (Yenikapı-Hacıosman), M3 (Kirazlı-Olimpiyat-Başakşehir), M4 (Kadıköy-Tavşantepe), M5 (Üsküdar-Çekmeköy), M6 (Levent-Boğaziçi Üniversitesi/Hisarüstü), M7 (Mecidiyeköy-Mahmutbey), ve Marmaray hattı bulunmaktadır.",
+            "İstanbul metrosu hatları arasında M1A (Yenikapı-Atatürk Havalimanı), M1B (Yenikapı-Kirazlı), M2 (Yenikapı-Hacıosman), M3 (Kirazlı-Olimpiyat-Başakşehir), M4 (Kadıköy-Tavşantepe), M5 (Üsküdar-Çekmeköy), M6 (Levent-Boğaziçi Üniversitesi/Hisarüstü), M7 (Mecidiyeköy-Mahmutbey), ve Marmaray hattı bulunmaktadır."
+        ]
+    },
+    "istanbul metrosu hakkında bilgi ver": {
+        "words": [
+            "istanbul",
+            "metrosu",
+            "hakkında",
+            "bilgi",
+            "ver"
+        ],
+        "response": [
+            "İstanbul metrosu, İstanbul'da toplu taşımayı sağlamak amacıyla kullanılan geniş bir metro ağıdır. İlk metro hattı 1989 yılında açılmıştır. Günümüzde birçok hat ve istasyonla şehir genelinde hizmet vermektedir.",
+            "İstanbul metrosu, İstanbul'da toplu taşımayı sağlamak amacıyla kullanılan geniş bir metro ağıdır. İlk metro hattı 1989 yılında açılmıştır. Günümüzde birçok hat ve istasyonla şehir genelinde hizmet vermektedir."
+        ]
+    },
+    "antalyadan istanbula nasıl gidilir": {
+        "words": [
+            "antalyadan",
+            "istanbula",
+            "nasıl",
+            "gidilir"
+        ],
+        "response": "antalyadan istanbula kara yolu veya hava yoluyla gidilebilir."
+    },
+    "antalya havalimanı": {
+        "words": [
+            "antalya",
+            "havalimanı"
+        ],
+        "response": [
+            "antalyadan",
+            "deneme",
+            "deneme"
+        ]
+    },
+    "antalya havalimanı ile ilgili bilgi ver": {
+        "words": [
+            "antalya",
+            "havalimanı",
+            "ile",
+            "ilgili",
+            "bilgi",
+            "ver"
+        ],
+        "response": [
+            "Antalya Havalimanı, Türkiye'nin Akdeniz kıyısında yer alan Antalya şehrine hizmet veren uluslararası bir havalimanıdır. 1960 yılında açılan havalimanı, Antalya şehir merkezine yaklaşık 13 km uzaklıktadır ve her yıl milyonlarca yerli ve yabancı turisti ağırlamaktadır. Havalimanı, üç terminale sahiptir: iç hatlar, dış hatlar 1 ve dış hatlar 2 terminalleri."
+        ]
+    },
+    "ark hotel": {
+        "words": [
+            "ark",
+            "hotel"
+        ],
+        "response": [
+            "Hangi akra oteli soruyorsunuz ?"
+        ]
+    },
+    "ark hotel antalya": {
+        "words": [
+            "ark",
+            "hotel",
+            "antalya"
+        ],
+        "response": [
+            "Hangi akra oteli soruyorsunuz ?"
+        ]
+    },
+    "akra hotel antalya": {
+        "words": [
+            "akra",
+            "hotel",
+            "antalya"
+        ],
+        "response": [
+            "Akra Hotel Antalya, misafirlerine çeşitli restoran seçenekleri sunmaktadır. Otelin restoranları, dünya mutfaklarından ve Türk mutfağından lezzetler sunar. Ayrıca, otelin terasında deniz manzarası eşliğinde yemek yiyebilirsiniz."
+        ]
+    },
+    "akrm hotel": {
+        "words": [
+            "akrm",
+            "hotel"
+        ],
+        "response": [
+            "Hangi akra oteli soruyorsunuz ?"
+        ]
+    },
+    "ist hava limanı": {
+        "words": [
+            "ist",
+            "hava",
+            "limanı",
+            "havalimanı"
+        ],
+        "response": [
+            "İstamnul hava limanı hakkında bilgimi istiyorsunuz ?"
+        ]
+    },
+    "ist hava limanı hakkında bilgi verirmisin": {
+        "words": [
+            "ist",
+            "hava",
+            "limanı",
+            "hakkında",
+            "bilgi",
+            "verirmisin"
+        ],
+        "response": [
+            "İstamnul hava limanı hakkında bilgimi istiyorsunuz ?"
+        ]
+    },
+    "SELAM": {
+        "words": [
+            "SELAM"
+        ],
+        "response": [
+            "Merhaba Size Nasıl Yardımcı olabilirim ?"
+        ]
+    }
+}
